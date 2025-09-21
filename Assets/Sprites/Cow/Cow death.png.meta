@@ -46,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -60,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -112,10 +112,10 @@ TextureImporter:
       name: Cow death_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 105
-        width: 16
-        height: 15
+        x: 9
+        y: 106
+        width: 14
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -133,10 +133,10 @@ TextureImporter:
       name: Cow death_1
       rect:
         serializedVersion: 2
-        x: 11
-        y: 43
-        width: 76
-        height: 77
+        x: 9
+        y: 41
+        width: 14
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,18 +154,18 @@ TextureImporter:
       name: Cow death_2
       rect:
         serializedVersion: 2
-        x: 13
-        y: 76
-        width: 9
-        height: 10
+        x: 41
+        y: 106
+        width: 14
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 24fb31a9be49768b0800000000000000
+      spriteID: e0ff976a03289134e9f22a6a40012d5c
       internalID: -5158991108506403006
       vertices: []
       indices: 
@@ -175,19 +175,124 @@ TextureImporter:
       name: Cow death_3
       rect:
         serializedVersion: 2
-        x: 41
-        y: 77
+        x: 73
+        y: 106
         width: 14
-        height: 43
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 278ac4499fb57e7e0800000000000000
+      spriteID: 60321ca8f9294e841a3b7a9da292f3ab
       internalID: -1736318003835000718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow death_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 74
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46015ca4ea9617b4b8327e5cfb60c231
+      internalID: 1635795354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow death_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 74
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc25c3b661fc1dd4db5ee5446780e67a
+      internalID: -1903840000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow death_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 74
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5209cdfaface4a943bf41336c449511c
+      internalID: 1427636429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow death_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 42
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c1b98d26f16d34eac772fdb3cca64c
+      internalID: -1524874442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow death_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 42
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a5bf582e1a63c43b248d8f105e2d2f
+      internalID: 230686671
       vertices: []
       indices: 
       edges: []
@@ -195,14 +300,23 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f794967ce716af447ad662998910141f
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cow death_0: -2200434732781083882
+      Cow death_1: -124910297607879891
+      Cow death_2: -5158991108506403006
+      Cow death_3: -1736318003835000718
+      Cow death_4: 1635795354
+      Cow death_5: -1903840000
+      Cow death_6: 1427636429
+      Cow death_7: -1524874442
+      Cow death_8: 230686671
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
