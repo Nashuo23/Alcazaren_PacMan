@@ -52,7 +52,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -66,7 +66,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 36
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -118,18 +118,18 @@ TextureImporter:
       name: Red Alien Up_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 54
-        width: 20
-        height: 8
+        x: 7
+        y: 42
+        width: 18
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f0ac2b87208b26950800000000000000
+      spriteID: 18a75c1dc22920d4aa5d058c7dcb76e9
       internalID: 6440912737847659023
       vertices: []
       indices: 
@@ -140,102 +140,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 7
-        y: 41
+        y: 10
         width: 18
-        height: 15
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c00f37ae8e0895d30800000000000000
+      spriteID: 631802b05c469f54b91ddba992395d28
       internalID: 4420706247095087116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Alien Up_2
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 53
-        width: 14
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6421649440a2d1ae0800000000000000
-      internalID: -1577058096612240826
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Alien Up_3
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 22
-        width: 20
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed14f5ec51dd67410800000000000000
-      internalID: 1474609013736817118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Alien Up_4
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 9
-        width: 18
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c3fc8fe838c504cf0800000000000000
-      internalID: -270114257533087940
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Alien Up_5
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 21
-        width: 14
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 11d8c27e8448eef50800000000000000
-      internalID: 6912607926711258385
       vertices: []
       indices: 
       edges: []
@@ -243,14 +159,16 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: c0aa3935eec052e4696bf99bf81316a7
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red Alien Up_0: 6440912737847659023
+      Red Alien Up_1: 4420706247095087116
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

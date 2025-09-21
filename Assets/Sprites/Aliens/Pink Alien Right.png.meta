@@ -46,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -60,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -112,18 +112,18 @@ TextureImporter:
       name: Pink Alien Right_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 41
-        width: 18
+        x: 8
+        y: 40
+        width: 22
         height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8335609fcc258f9b0800000000000000
+      spriteID: 51ad5e37573d36e4c82dd61b3752ad55
       internalID: -5046192342163893448
       vertices: []
       indices: 
@@ -133,61 +133,19 @@ TextureImporter:
       name: Pink Alien Right_1
       rect:
         serializedVersion: 2
-        x: 23
-        y: 39
-        width: 8
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bca4f2994a8d74dd0800000000000000
-      internalID: -2501792866524771637
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink Alien Right_2
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 9
-        width: 18
+        x: 8
+        y: 8
+        width: 22
         height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c8067ad71eb118cb0800000000000000
-      internalID: -4863575467293712244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink Alien Right_3
-      rect:
-        serializedVersion: 2
-        x: 23
-        y: 7
-        width: 8
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 938388e4dc8b7ca50800000000000000
-      internalID: 6541400175704291385
+      spriteID: 864c4cd7124780d44b4ff53929a3d5c0
+      internalID: -2501792866524771637
       vertices: []
       indices: 
       edges: []
@@ -195,14 +153,16 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 169d6206cc88329439cb786c47ea0e19
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pink Alien Right_0: -5046192342163893448
+      Pink Alien Right_1: -2501792866524771637
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

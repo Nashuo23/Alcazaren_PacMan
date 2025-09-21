@@ -52,7 +52,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -66,7 +66,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -118,18 +118,18 @@ TextureImporter:
       name: Green Alien Up_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 54
-        width: 20
-        height: 8
+        x: 7
+        y: 42
+        width: 18
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9bdcfd001befebc80800000000000000
+      spriteID: db140d698b5ad434ebf8f26a04342983
       internalID: -8304920626647282247
       vertices: []
       indices: 
@@ -140,102 +140,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 7
-        y: 41
+        y: 10
         width: 18
-        height: 15
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e6ea429b40863b820800000000000000
+      spriteID: 0851daec8cc97d5429020b3b428834ab
       internalID: 2932802151843671662
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Green Alien Up_2
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 53
-        width: 14
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4bcb2d206f2e37a30800000000000000
-      internalID: 4211959622758743220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Green Alien Up_3
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 22
-        width: 20
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 18b6725c0370e6970800000000000000
-      internalID: 8749939032074972033
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Green Alien Up_4
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 9
-        width: 18
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: abf3ffe58143f2540800000000000000
-      internalID: 4985260591800074170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Green Alien Up_5
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 21
-        width: 14
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 87e702edccd58eb90800000000000000
-      internalID: -7212411668752466312
       vertices: []
       indices: 
       edges: []
@@ -243,14 +159,16 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: bafdcabfd79fd444f82694a625d3c301
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Green Alien Up_0: -8304920626647282247
+      Green Alien Up_1: 2932802151843671662
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

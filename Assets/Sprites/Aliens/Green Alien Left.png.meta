@@ -46,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -60,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -112,18 +112,18 @@ TextureImporter:
       name: Green Alien Left_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 39
-        width: 8
-        height: 17
+        x: 2
+        y: 40
+        width: 22
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b92ee48b225df7830800000000000000
+      spriteID: ebb5ec24e9812194da1aadb20b060fc9
       internalID: 4071206933263999643
       vertices: []
       indices: 
@@ -133,61 +133,19 @@ TextureImporter:
       name: Green Alien Left_1
       rect:
         serializedVersion: 2
-        x: 7
-        y: 41
-        width: 18
+        x: 2
+        y: 8
+        width: 22
         height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1078c0f5285797820800000000000000
+      spriteID: b17de66f963d54a4fa39b0949c3e2e9c
       internalID: 2916491436499961601
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Green Alien Left_2
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 7
-        width: 8
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0b494b836320beb60800000000000000
-      internalID: 7776311613488141488
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Green Alien Left_3
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 9
-        width: 18
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5465876727dbbbd10800000000000000
-      internalID: 2142514347056322117
       vertices: []
       indices: 
       edges: []
@@ -195,14 +153,16 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: dbc0e60bd18c5324ea92d6f348f047ac
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Green Alien Left_0: 4071206933263999643
+      Green Alien Left_1: 2916491436499961601
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

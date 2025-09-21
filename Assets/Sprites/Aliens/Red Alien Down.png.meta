@@ -52,7 +52,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -66,7 +66,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -118,18 +118,18 @@ TextureImporter:
       name: Red Alien Down_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 35
-        width: 22
-        height: 8
+        x: 6
+        y: 36
+        width: 20
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 84c03b80b191616b0800000000000000
+      spriteID: 3ab2bc0a2b8b7fd46b86d0880f5590d5
       internalID: -5326041905418269624
       vertices: []
       indices: 
@@ -139,103 +139,19 @@ TextureImporter:
       name: Red Alien Down_1
       rect:
         serializedVersion: 2
-        x: 7
-        y: 41
-        width: 18
-        height: 15
+        x: 6
+        y: 4
+        width: 20
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 64a6b6755c3e02260800000000000000
+      spriteID: 1ab5a826679cce448a854f090c2b00ae
       internalID: 7070901851686398534
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Alien Down_2
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 38
-        width: 16
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a8b7882155ab664a0800000000000000
-      internalID: -6600383329318962294
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Alien Down_3
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 3
-        width: 22
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9f56274901fba9d30800000000000000
-      internalID: 4439070460657952249
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Alien Down_4
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 9
-        width: 18
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4568fcc68c66b2ac0800000000000000
-      internalID: -3878893643044518316
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Alien Down_5
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 6
-        width: 16
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e9c3a1ff037877ec0800000000000000
-      internalID: -3569235535159739234
       vertices: []
       indices: 
       edges: []
@@ -243,14 +159,16 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 181c4cc0cad50314f900c3413291d143
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red Alien Down_0: -5326041905418269624
+      Red Alien Down_1: 7070901851686398534
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
