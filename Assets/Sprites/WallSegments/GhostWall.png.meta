@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 02a218d63ecff254dbb6dba7e3b610c8
+guid: b67c007d9c670d94f800b830fc2d1345
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -707571047400705708
-    second: Outside Wall_0
+      213: -537396398547888865
+    second: GhostWall_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Outside Wall_0
+      name: GhostWall_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 12
+        y: 0
         width: 32
-        height: 8
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -114,8 +114,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 451745a91e33e26f0800000000000000
-      internalID: -707571047400705708
+      spriteID: f159af0a2d8ca88f0800000000000000
+      internalID: -537396398547888865
       vertices: []
       indices: 
       edges: []
