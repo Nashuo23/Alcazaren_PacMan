@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 58c06d013a11f184d874557ccdef7fe1
+guid: 5f0aeb738faeb954f970e118b9c64268
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3288884940112596593
-    second: Outside Corner_0
+      213: -1531854481297827098
+    second: Outside Corner (1)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Outside Corner_0
+      name: Outside Corner (1)_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 11
         y: 0
-        width: 32
-        height: 32
+        width: 21
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -114,8 +114,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f81f47d72988b52d0800000000000000
-      internalID: -3288884940112596593
+      spriteID: 6ea17a22772cdbae0800000000000000
+      internalID: -1531854481297827098
       vertices: []
       indices: 
       edges: []
@@ -130,8 +130,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Outside Corner_0: -3288884940112596593
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

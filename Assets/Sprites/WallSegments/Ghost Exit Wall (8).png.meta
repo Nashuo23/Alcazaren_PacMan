@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1e498ba3dcb8ae34fabbfa76e3d64a85
+guid: fc03fcffe0805b24f96d531793173caf
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4115598249826039515
-    second: Ghost Wall_0
+      213: -2098605301113362539
+    second: Ghost Exit Wall (8)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ghost Wall_0
+      name: Ghost Exit Wall (8)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -114,8 +114,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bd6b9178dca8d1930800000000000000
-      internalID: 4115598249826039515
+      spriteID: 597e267f89140e2e0800000000000000
+      internalID: -2098605301113362539
       vertices: []
       indices: 
       edges: []
@@ -130,8 +130,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Ghost Wall_0: 4115598249826039515
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

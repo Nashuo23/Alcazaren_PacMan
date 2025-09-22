@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: fbdd0220c1cfd0f4ba64f947f9dc0937
+guid: 0d39af24e6a17684d8beafb07a0fb407
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7562392871496072991
-    second: GrassPellet_0
+      213: -5594451689078425330
+    second: Inside Wall (4)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GrassPellet_0
+      name: Inside Wall (4)_0
       rect:
         serializedVersion: 2
-        x: 12
-        y: 13
-        width: 7
-        height: 6
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -114,8 +114,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f1f3875df3403f860800000000000000
-      internalID: 7562392871496072991
+      spriteID: e09756754d38c52b0800000000000000
+      internalID: -5594451689078425330
       vertices: []
       indices: 
       edges: []
@@ -130,8 +130,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      GrassPellet_0: 7562392871496072991
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
