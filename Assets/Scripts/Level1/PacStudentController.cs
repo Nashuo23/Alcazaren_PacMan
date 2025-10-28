@@ -10,6 +10,4 @@ public class PacStudentController : MonoBehaviour
     public AudioClip pacEatsPellet;
     //for moving sound
     public AudioClip pacMove;
-    
-
 }
