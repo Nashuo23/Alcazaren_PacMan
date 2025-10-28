@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      negative-space-old-barn-sunset_0: 1594052831541353351
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
