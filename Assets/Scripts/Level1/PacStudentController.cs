@@ -4,15 +4,12 @@ using UnityEngine;
 
 public class PacStudentController : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    //for movement speed
+    public float moveSpeed = 5f;
+    //for eating sound
+    public AudioClip pacEatsPellet;
+    //for moving sound
+    public AudioClip pacMove;
+    
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
