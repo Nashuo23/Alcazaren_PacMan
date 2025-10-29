@@ -46,10 +46,12 @@ public class PacStudentController : MonoBehaviour
     // }
 
     // void ToMove()
-    // {
+    // { 
+    // // to see where the cow should move next
     //     Vector3 startPos = transform.position;
     //     Vector3 endPos = startPos + lastInput * moveDistance;
 
+    // // how far the cow should have moved
     //     float distance = Vector3.Distance(startPos, endPos);
     //     float duration = distance / moveSpeed;
 
